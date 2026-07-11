@@ -3,17 +3,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/active-snow.gif" width="200"/>
+      <img src="images/active-snow.gif" width="250"/>
       <br>
       <sub>Active Snow</sub>
     </td>
     <td align="center">
-      <img src="images/urban-no-snowfall.gif" width="200"/>
+      <img src="images/urban-no-snowfall.gif" width="250"/>
       <br>
       <sub>No Snowfall </sub>
     </td>
     <td align="center">
-      <img src="images/highway-snowfall.gif" width="200"/>
+      <img src="images/highway-snowfall.gif" width="250"/>
       <br>
       <sub>Highway Snowfall</sub>
     </td>
