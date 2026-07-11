@@ -135,6 +135,15 @@ The dataset includes benchmark experiments for:
       <td align="center">0.445</td>
       <td align="center"><a href="PUT_LINK_HERE">link</a></td>
     </tr>
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">L</td>
+      <td align="center">67.63</td>
+      <td align="center">0.37</td>
+      <td align="center">0.11</td>
+      <td align="center">1.65</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
   </tbody>
 </table>
 -------------------------------------------------------
