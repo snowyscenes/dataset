@@ -360,10 +360,10 @@ The dataset includes benchmark experiments for:
 Please cite the associated publication when using this dataset:
 
 ```bibtex
-@dataset{snowy_scenes_dataset,
+@ARTICLE{snowy_scenes_dataset,
   author = {Your Name},
   title = {Snowy Scenes Dataset},
   year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/snowyscenes/snowy-scenes-dataset}
+  journal={IEEE Robotics and Automation Letters}, 
+  url = {https://github.com/snowyscenes/dataset}
 }
