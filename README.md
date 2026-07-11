@@ -2,7 +2,7 @@
 ![Image examples](./images/ROADVIEW_Snow_Intro_1_rev1.png)
 
 # Download
-[![Watch the demo](https://img.youtube.com/vi/9ybs3qwTGpM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9ybs3qwTGpM)
+![Snowy Scenes dataset demonstration](images/active_snow.gif)
 
 Email to (ms.thienthu.ngo@gmail.com) or (eren.aksoy@cs.lth.se)
 
