@@ -8,7 +8,7 @@
       <sub>Active Snow</sub>
     </td>
     <td align="center">
-      <img src="images/passive-snow.gif" width="300"/>
+      <img src="images/urban-no-snowfall.gif" width="300"/>
       <br>
       <sub>Passive Snow</sub>
     </td>
