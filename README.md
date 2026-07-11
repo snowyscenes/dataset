@@ -67,7 +67,136 @@ The dataset includes benchmark experiments for:
 
 3. **3D Object Detection**  
    LiDAR-based and multimodal detection models are benchmarked for car detection. Sensor fusion using LiDAR, RGB, and thermal data improves detection performance.
-  <img src="./images/Table5.png" alt="Semantic segmentation results" width="400">
+ <h3>Car 3D Object Detection Performance on the Snowy Scenes Test Set</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Modality</th>
+      <th>AP ↑</th>
+      <th>ATE ↓</th>
+      <th>ASE ↓</th>
+      <th>AOE ↓</th>
+      <th>Link to Pretrained Model</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PointPillars</td>
+      <td align="center">L</td>
+      <td align="center">75.2</td>
+      <td align="center">0.24</td>
+      <td align="center">0.063</td>
+      <td align="center"><strong>0.280</strong></td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>CenterPoint</td>
+      <td align="center">L</td>
+      <td align="center">66.9</td>
+      <td align="center">0.24</td>
+      <td align="center">0.072</td>
+      <td align="center">0.414</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>TransFusion-L</td>
+      <td align="center">L</td>
+      <td align="center"><strong>76.2</strong></td>
+      <td align="center">0.23</td>
+      <td align="center">0.097</td>
+      <td align="center">0.391</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>VoxelNeXt</td>
+      <td align="center">L</td>
+      <td align="center">74.1</td>
+      <td align="center"><strong>0.18</strong></td>
+      <td align="center">0.064</td>
+      <td align="center">0.530</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>IA-SSD</td>
+      <td align="center">L</td>
+      <td align="center">72.1</td>
+      <td align="center">0.20</td>
+      <td align="center"><strong>0.051</strong></td>
+      <td align="center">0.369</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>CenterPoint (FOV)</td>
+      <td align="center">L</td>
+      <td align="center">35.0</td>
+      <td align="center">0.62</td>
+      <td align="center">0.071</td>
+      <td align="center">0.445</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+
+    <tr>
+      <td colspan="7"><hr></td>
+    </tr>
+
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">L</td>
+      <td align="center">67.63</td>
+      <td align="center">0.37</td>
+      <td align="center">0.11</td>
+      <td align="center">1.65</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">LC</td>
+      <td align="center">77.77</td>
+      <td align="center">0.28</td>
+      <td align="center">0.12</td>
+      <td align="center">1.65</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">LCT</td>
+      <td align="center">78.52</td>
+      <td align="center">0.28</td>
+      <td align="center">0.12</td>
+      <td align="center">1.66</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">L</td>
+      <td align="center">51.23</td>
+      <td align="center">0.36</td>
+      <td align="center">0.11</td>
+      <td align="center">0.14</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">LC</td>
+      <td align="center">71.74</td>
+      <td align="center">0.30</td>
+      <td align="center">0.10</td>
+      <td align="center">0.89</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">LCT</td>
+      <td align="center">70.65</td>
+      <td align="center">0.30</td>
+      <td align="center">0.11</td>
+      <td align="center">0.91</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+  </tbody>
+</table>
 
 4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection. <p>↑ denotes higher is better.</p>
