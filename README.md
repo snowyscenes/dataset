@@ -1,7 +1,24 @@
 # Snowyscenes: A Multimodal Multitask Dataset Toward Snow-tonomous Vehicles
 ![Image examples](./images/ROADVIEW_Snow_Intro_1_rev1.png)
-![Snowy Scenes dataset demonstration](images/active-snow.gif)
-# Download
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/active-snow.gif" width="300"/>
+      <br>
+      <sub>Active Snow</sub>
+    </td>
+    <td align="center">
+      <img src="images/passive-snow.gif" width="300"/>
+      <br>
+      <sub>Passive Snow</sub>
+    </td>
+    <td align="center">
+      <img src="images/clear-scene.gif" width="300"/>
+      <br>
+      <sub>Clear Scene</sub>
+    </td>
+  </tr>
+</table># Download
 
 
 Email to (ms.thienthu.ngo@gmail.com) or (eren.aksoy@cs.lth.se)
