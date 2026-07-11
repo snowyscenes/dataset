@@ -70,6 +70,18 @@ The dataset includes benchmark experiments for:
 7. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection.
      <img src="./images/Table6.png" alt="Semantic segmentation results" width="400">
+     ## Citation
+
+Please cite the associated publication when using this dataset:
+
+```bibtex
+@dataset{snowy_scenes_dataset,
+  author = {Your Name},
+  title = {Snowy Scenes Dataset},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/snowyscenes/snowy-scenes-dataset}
+}
 
 
 ### Limitations
