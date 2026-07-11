@@ -138,6 +138,79 @@ The dataset includes benchmark experiments for:
   </tbody>
 </table>
 
+<h3>Car 3D Object Detection Performance on the Snowy Scenes Test Set</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Modality</th>
+      <th>AP ↑</th>
+      <th>ATE ↓</th>
+      <th>ASE ↓</th>
+      <th>AOE ↓</th>
+      <th>Link to Pretrained Model</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">L</td>
+      <td align="center">67.63</td>
+      <td align="center">0.37</td>
+      <td align="center">0.11</td>
+      <td align="center">1.65</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">LC</td>
+      <td align="center">77.77</td>
+      <td align="center">0.28</td>
+      <td align="center">0.12</td>
+      <td align="center">1.65</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>TransBEVFusion</td>
+      <td align="center">LCT</td>
+      <td align="center">78.52</td>
+      <td align="center">0.28</td>
+      <td align="center">0.12</td>
+      <td align="center">1.66</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">L</td>
+      <td align="center">51.23</td>
+      <td align="center">0.36</td>
+      <td align="center">0.11</td>
+      <td align="center">0.14</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">LC</td>
+      <td align="center">71.74</td>
+      <td align="center">0.30</td>
+      <td align="center">0.10</td>
+      <td align="center">0.89</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>UniTR</td>
+      <td align="center">LCT</td>
+      <td align="center">70.65</td>
+      <td align="center">0.30</td>
+      <td align="center">0.11</td>
+      <td align="center">0.91</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
 4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection. <p>↑ denotes higher is better.</p>
 
