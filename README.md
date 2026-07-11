@@ -63,7 +63,94 @@ The dataset includes benchmark experiments for:
 
 2. **Point Cloud De-snowing**  
    The dataset supports binary segmentation of snow particles versus regular LiDAR points. Cylinder3D achieves the strongest supervised de-snowing performance.
-  <img src="./images/Table4.png" alt="Semantic segmentation results" width="400">
+  <table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Type</th>
+      <th>Precision ↑</th>
+      <th>Recall ↑</th>
+      <th>F1 ↑</th>
+      <th>IOU ↑</th>
+      <th>Link to Pretrained Model</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SalsaNext</td>
+      <td align="center">SL</td>
+      <td align="center">74.99 ± 0.46</td>
+      <td align="center">86.93 ± 0.12</td>
+      <td align="center">80.52 ± 0.32</td>
+      <td align="center">67.39 ± 0.44</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>Cylinder3D</td>
+      <td align="center">SL</td>
+      <td align="center">95.87 ± 0.55</td>
+      <td align="center">88.20 ± 0.63</td>
+      <td align="center">91.87 ± 0.14</td>
+      <td align="center">84.96 ± 0.23</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>3D-OutDet</td>
+      <td align="center">SL</td>
+      <td align="center">90.70 ± 0.23</td>
+      <td align="center">83.24 ± 0.03</td>
+      <td align="center">86.81 ± 0.09</td>
+      <td align="center">76.70 ± 0.14</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+
+    <tr>
+      <td>DROR</td>
+      <td align="center">UN</td>
+      <td align="center">6.52</td>
+      <td align="center">81.84</td>
+      <td align="center">12.08</td>
+      <td align="center">6.43</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>SSR</td>
+      <td align="center">UN</td>
+      <td align="center">40.23</td>
+      <td align="center">74.79</td>
+      <td align="center">52.32</td>
+      <td align="center">35.43</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>LiSnowNet-LI</td>
+      <td align="center">UN</td>
+      <td align="center">12.34 ± 0.86</td>
+      <td align="center">79.76 ± 5.91</td>
+      <td align="center">21.25 ± 1.08</td>
+      <td align="center">11.90 ± 0.67</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>LiSnowNet-L2</td>
+      <td align="center">UN</td>
+      <td align="center">13.72 ± 0.00</td>
+      <td align="center">6.66 ± 0.00</td>
+      <td align="center">8.96 ± 0.00</td>
+      <td align="center">4.69 ± 0.00</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>3D-UnOutDet</td>
+      <td align="center">UN</td>
+      <td align="center">49.82 ± 1.29</td>
+      <td align="center">82.65 ± 0.09</td>
+      <td align="center">62.14 ± 0.97</td>
+      <td align="center">45.09 ± 1.03</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+  </tbody>
+</table>
 
 3. **3D Object Detection**  
    LiDAR-based and multimodal detection models are benchmarked for car detection. Sensor fusion using LiDAR, RGB, and thermal data improves detection performance.
