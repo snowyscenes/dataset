@@ -71,7 +71,11 @@ The dataset includes benchmark experiments for:
 
 4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection.
-     <img src="./images/Table6.png" alt="Semantic segmentation results" width="400">
+     | Model | mIoU ↑ | Car AP ↑ | Link to Pretrained Model |
+|---|---:|---:|---|
+| SSMT-seg (ours) | 53.4 | - | [Download](PUT_LINK_HERE) |
+| SSMT-det (ours) | - | 64.5 | [Download](PUT_LINK_HERE) |
+| SSMT-joint (ours) | 48.3 | 67.2 | [Download](PUT_LINK_HERE) |
 ### Supplementary Materials
 
 ### Citation
