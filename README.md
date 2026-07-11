@@ -72,7 +72,9 @@ The dataset includes benchmark experiments for:
 4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection.
      <img src="./images/Table6.png" alt="Semantic segmentation results" width="400">
-     ## Citation
+### Supplementary Materials
+
+### Citation
 
 Please cite the associated publication when using this dataset:
 
