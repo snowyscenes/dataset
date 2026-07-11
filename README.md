@@ -137,9 +137,7 @@ The dataset includes benchmark experiments for:
     </tr>
   </tbody>
 </table>
-
-<h3>Car 3D Object Detection Performance on the Snowy Scenes Test Set</h3>
-
+-------------------------------------------------------
 <table>
   <thead>
     <tr>
