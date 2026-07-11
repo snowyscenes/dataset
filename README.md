@@ -2,7 +2,7 @@
 ![Image examples](./images/ROADVIEW_Snow_Intro_1_rev1.png)
 
 # Download
-![Snowy Scenes dataset demonstration](images/active_snow.gif)
+![Snowy Scenes dataset demonstration](images/active-snow.gif)
 
 Email to (ms.thienthu.ngo@gmail.com) or (eren.aksoy@cs.lth.se)
 
