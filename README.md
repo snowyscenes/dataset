@@ -103,7 +103,6 @@ The dataset includes benchmark experiments for:
       <td align="center">76.70 ± 0.14</td>
       <td align="center"><a href="PUT_LINK_HERE">link</a></td>
     </tr>
-
     <tr>
       <td>DROR</td>
       <td align="center">UN</td>
