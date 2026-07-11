@@ -10,12 +10,12 @@
     <td align="center">
       <img src="images/urban-no-snowfall.gif" width="200"/>
       <br>
-      <sub>Passive Snow</sub>
+      <sub>No Snowfall </sub>
     </td>
     <td align="center">
       <img src="images/highway-snowfall.gif" width="200"/>
       <br>
-      <sub>Clear Scene</sub>
+      <sub>Highway Snowfall</sub>
     </td>
   </tr>
 </table>
