@@ -71,11 +71,42 @@ The dataset includes benchmark experiments for:
 
 4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection.
-     | Model | mIoU ↑ | Car AP ↑ | Link to Pretrained Model |
-|---|---:|---:|---|
-| SSMT-seg (ours) | 53.4 | - | [Download](PUT_LINK_HERE) |
-| SSMT-det (ours) | - | 64.5 | [Download](PUT_LINK_HERE) |
-| SSMT-joint (ours) | 48.3 | 67.2 | [Download](PUT_LINK_HERE) |
+     <h3>Multitask Learning Results on the Snowy Scenes Test Set</h3>
+
+<p>↑ denotes higher is better.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>mIoU ↑</th>
+      <th>Car AP ↑</th>
+      <th>Link to Pretrained Model</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">SSMT-seg (ours)</td>
+      <td align="center">53.4</td>
+      <td align="center">-</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td align="center">SSMT-det (ours)</td>
+      <td align="center">-</td>
+      <td align="center">64.5</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td align="center">SSMT-joint (ours)</td>
+      <td align="center">48.3</td>
+      <td align="center">67.2</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
+     
 ### Supplementary Materials
 
 ### Citation
