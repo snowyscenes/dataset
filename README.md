@@ -67,8 +67,8 @@ The dataset includes benchmark experiments for:
 
 3. **3D Object Detection**  
    LiDAR-based and multimodal detection models are benchmarked for car detection. Sensor fusion using LiDAR, RGB, and thermal data improves detection performance.
- 
-<table>
+
+ <table>
   <thead>
     <tr>
       <th>Method</th>
