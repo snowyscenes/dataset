@@ -361,7 +361,7 @@ Please cite the associated publication when using this dataset:
 
 ```bibtex
 @ARTICLE{snowy_scenes_dataset,
-  author = {Your Name},
+  author = {Ngo, Thien-Thu and Raisuddin,  Abu Mohammed and  Gouigah, Idriss and  Litkey, Paula and Manninen, Petri and Hyyti, Heikki and Maanpää, Jyri and  Tuomas, Herranen and Sofie,  Väisänen and  Kalle, Niemi and Pernickel,  Lars and Aksoy, Eren Erdal},
   title = {Snowy Scenes Dataset},
   year = {2026},
   journal={IEEE Robotics and Automation Letters}, 
