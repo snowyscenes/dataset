@@ -204,7 +204,7 @@ The dataset includes benchmark experiments for:
       <th>ATE ↓</th>
       <th>ASE ↓</th>
       <th>AOE ↓</th>
-      <th>Link to Pretrained Model</th>
+      <th>Model</th>
     </tr>
   </thead>
   <tbody>
@@ -327,7 +327,7 @@ The dataset includes benchmark experiments for:
       <th>Model</th>
       <th>mIoU ↑</th>
       <th>Car AP ↑</th>
-      <th>Link to Pretrained Model</th>
+      <th>Model</th>
     </tr>
   </thead>
   <tbody>
