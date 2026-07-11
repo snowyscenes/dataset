@@ -61,6 +61,29 @@ The dataset includes benchmark experiments for:
    Models such as SalsaNext, PTv3, and Cylinder3D are evaluated. Cylinder3D achieves the highest semantic segmentation performance with an mIoU of **76.38**.
    ![Image examples](./images/Table3.png)
 
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Link to Pretrained Model</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SalsaNext</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>PTv3</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+    <tr>
+      <td>Cylinder3D</td>
+      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
 2. **Point Cloud De-snowing**  
    The dataset supports binary segmentation of snow particles versus regular LiDAR points. Cylinder3D achieves the strongest supervised de-snowing performance.
   <table>
