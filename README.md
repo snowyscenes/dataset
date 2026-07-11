@@ -59,15 +59,15 @@ The dataset includes benchmark experiments for:
    Models such as SalsaNext, PTv3, and Cylinder3D are evaluated. Cylinder3D achieves the highest semantic segmentation performance with an mIoU of **76.38**.
    ![Image examples](./images/Table3.png)
 
-3. **Point Cloud De-snowing**  
+2. **Point Cloud De-snowing**  
    The dataset supports binary segmentation of snow particles versus regular LiDAR points. Cylinder3D achieves the strongest supervised de-snowing performance.
   <img src="./images/Table4.png" alt="Semantic segmentation results" width="400">
 
-5. **3D Object Detection**  
+3. **3D Object Detection**  
    LiDAR-based and multimodal detection models are benchmarked for car detection. Sensor fusion using LiDAR, RGB, and thermal data improves detection performance.
   <img src="./images/Table5.png" alt="Semantic segmentation results" width="400">
 
-7. **Multitask Learning**  
+4. **Multitask Learning**  
    Snowy Scenes also enables joint learning of semantic segmentation and object detection.
      <img src="./images/Table6.png" alt="Semantic segmentation results" width="400">
      ## Citation
@@ -82,8 +82,3 @@ Please cite the associated publication when using this dataset:
   publisher = {GitHub},
   url = {https://github.com/snowyscenes/snowy-scenes-dataset}
 }
-
-
-### Limitations
-
-The dataset does not include radar data. RGB and thermal cameras are front-view limited, and annotations are provided for LiDAR data only. Other adverse weather conditions such as rain and fog are not included.
