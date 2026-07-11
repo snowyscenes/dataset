@@ -83,7 +83,7 @@ The dataset includes benchmark experiments for:
   <thead>
     <tr>
       <th>Model</th>
-      <th>Link to Pretrained Model</th>
+      <th>Model</th>
     </tr>
   </thead>
   <tbody>
@@ -113,7 +113,7 @@ The dataset includes benchmark experiments for:
       <th>Recall ↑</th>
       <th>F1 ↑</th>
       <th>IOU ↑</th>
-      <th>Link to Pretrained Model</th>
+      <th>Model</th>
     </tr>
   </thead>
   <tbody>
