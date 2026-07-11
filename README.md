@@ -135,65 +135,6 @@ The dataset includes benchmark experiments for:
       <td align="center">0.445</td>
       <td align="center"><a href="PUT_LINK_HERE">link</a></td>
     </tr>
-
-    <tr>
-      <td colspan="7"><hr></td>
-    </tr>
-
-    <tr>
-      <td>TransBEVFusion</td>
-      <td align="center">L</td>
-      <td align="center">67.63</td>
-      <td align="center">0.37</td>
-      <td align="center">0.11</td>
-      <td align="center">1.65</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
-    <tr>
-      <td>TransBEVFusion</td>
-      <td align="center">LC</td>
-      <td align="center">77.77</td>
-      <td align="center">0.28</td>
-      <td align="center">0.12</td>
-      <td align="center">1.65</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
-    <tr>
-      <td>TransBEVFusion</td>
-      <td align="center">LCT</td>
-      <td align="center">78.52</td>
-      <td align="center">0.28</td>
-      <td align="center">0.12</td>
-      <td align="center">1.66</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
-    <tr>
-      <td>UniTR</td>
-      <td align="center">L</td>
-      <td align="center">51.23</td>
-      <td align="center">0.36</td>
-      <td align="center">0.11</td>
-      <td align="center">0.14</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
-    <tr>
-      <td>UniTR</td>
-      <td align="center">LC</td>
-      <td align="center">71.74</td>
-      <td align="center">0.30</td>
-      <td align="center">0.10</td>
-      <td align="center">0.89</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
-    <tr>
-      <td>UniTR</td>
-      <td align="center">LCT</td>
-      <td align="center">70.65</td>
-      <td align="center">0.30</td>
-      <td align="center">0.11</td>
-      <td align="center">0.91</td>
-      <td align="center"><a href="PUT_LINK_HERE">link</a></td>
-    </tr>
   </tbody>
 </table>
 
